@@ -1,14 +1,10 @@
 ## Hi there 👋
 
-
-**geremewatalay/geremewatalay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=35&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Geremew+Atalay;Full-Stack+Developer;React+%26+Node.js+Expert;UI%2FUX+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
-
----
 
 ### 🧬 ABOUT ME
 <p align="center">
@@ -25,8 +21,6 @@ My work revolves around creating systems that are:
 - 🔗 **Well-documented** and API-first
 
 I believe software should be powerful under the hood and simple on the surface.
-
----
 
 ### 🧱 TECHNOLOGY & TOOLS
 
@@ -81,8 +75,6 @@ I believe software should be powerful under the hood and simple on the surface.
 - 🎨 Deepening expertise in **UI/UX Design Principles**
 - 🔐 Implementing **Secure Authentication** and Authorization systems
 - 🧩 Building reusable **Component Libraries**
-
----
 
 ### 🤝 CONNECT
 <p align="left">
