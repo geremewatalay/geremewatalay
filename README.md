@@ -3,10 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=35&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Geremew+Atalay;Full-Stack+Developer;React+%26+Node.js+Expert;UI%2FUX+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
+### 🧬 ABOUT ME
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="150" />
 </p>
-### 🧬 ABOUT ME
 
 Hello! I'm **Geremew Atalay** — a passionate Full-Stack Developer dedicated to crafting modern, responsive, and high-performance web applications. I specialize in the MERN stack and love creating intentional digital experiences where thoughtful engineering meets elegant design.
 
