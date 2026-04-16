@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=35&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=;Geremew+Atalay;Full-Stack+Developer;React+%26+Node.js+Expert;UI%2FUX+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
-
 ---
 
 ### 🧬 ABOUT ME
