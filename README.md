@@ -7,6 +7,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="150" />
 </p>
 ### 🧬 ABOUT ME
+
 Hello! I'm **Geremew Atalay** — a passionate Full-Stack Developer dedicated to crafting modern, responsive, and high-performance web applications. I specialize in the MERN stack and love creating intentional digital experiences where thoughtful engineering meets elegant design.
 
 My work revolves around creating systems that are:
